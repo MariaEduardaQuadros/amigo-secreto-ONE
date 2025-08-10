@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Amigo Secreto — ONE</title>
+
+  <!-- Fonte tecnológica -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
+
+  <!-- CSS externo -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Amigo Secreto</h1>
+        <p class="lead">Adicione amigos e descubra quem será o sorteado</p>
+      </div>
+    </header>
+
+    <div class="controls">
+      <div class="input-wrap">
+        <input type="text" id="nome" placeholder="Digite o nome do amigo">
+        <button class="btn" id="btnAdicionar">Adicionar</button>
+      </div>
+    </div>
+
+    <ul id="lista"></ul>
+
+    <div class="sorteio">
+      <button class="btn" id="btnSortear">Sortear Amigo</button>
+      <button class="btn hidden" id="btnSortearNovamente">Sortear Novamente</button>
+      <button class="btn hidden" id="btnReiniciar">Reiniciar</button>
+      <p id="resultado"></p>
+    </div>
+  </div>
+
+  <section class="info-section">
+    <h2>Como funciona o Amigo Secreto?</h2>
+    <p>O Amigo Secreto é uma brincadeira tradicional onde cada participante sorteia, de forma anônima, o nome de outra pessoa para presenteá-la. 
+    Normalmente, define-se um valor máximo para o presente e a troca acontece em um encontro marcado.</p>
+  </section>
+
+  <section class="info-section">
+    <h2>Como o Amigo Secreto Surgiu?</h2>
+    <p>Essa tradição é popular em vários países, conhecida como "Secret Santa". 
+    Sua origem é atribuída a diferentes culturas, mas se popularizou no século XX como uma forma divertida e econômica de trocar presentes em grupos de amigos, familiares ou colegas de trabalho.</p>
+  </section>
+
+  <!-- JS externo -->
+  <script src="script.js"></script>
+</body>
+</html>
