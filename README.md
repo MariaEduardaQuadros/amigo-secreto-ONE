@@ -27,6 +27,3 @@ Desenvolvido no Programa ONE (Oracle Next Education), em parceria com Alura e Or
 ## 🖼️ Prévia do Projeto
 
 <img width="1087" height="796" alt="image" src="https://github.com/user-attachments/assets/14007fef-f46c-47ee-b0dc-2899019b24e7" />
-
-## 📂 Estrutura de Arquivos
-
