@@ -1,7 +1,8 @@
 # 🎁 Amigo Secreto — Sorteador Online
 
-Uma aplicação web **minimalista e tecnológica** para realizar sorteios de **Amigo Secreto** de forma simples e divertida.  
+Uma aplicação web minimalista e tecnológica para realizar sorteios de Amigo Secreto de forma simples e divertida.
 Adicione os nomes, veja a lista crescer e descubra quem será o seu amigo secreto com apenas um clique!
+Desenvolvido no Programa ONE (Oracle Next Education), em parceria com Alura e Oracle, aplicando conceitos de lógica de programação e desenvolvimento web.
 
 ---
 
@@ -26,7 +27,6 @@ Adicione os nomes, veja a lista crescer e descubra quem será o seu amigo secret
 ## 🖼️ Prévia do Projeto
 
 <img width="1087" height="796" alt="image" src="https://github.com/user-attachments/assets/14007fef-f46c-47ee-b0dc-2899019b24e7" />
-
 
 ## 📂 Estrutura de Arquivos
 
